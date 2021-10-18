@@ -1,11 +1,11 @@
 
 {
-    "name": "Firebase Quickstarts for Android",
+    "name": "Firebase Quickstarts for linukx",
     "parent": "quickstarts",
     "type": "sample",
 
     "platforms": [
-      "Android"
+      "linux"
     ],
 
     "content": "README.md",
